@@ -4,3 +4,4 @@
 **/*.json
 **/.ipynb_checkpoints
 **/Question Bank.ipynb
+**/.DS_Store
