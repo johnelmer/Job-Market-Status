@@ -1,0 +1,6 @@
+**/*.csv
+**/*.txt
+**/*.xlsx
+**/*.json
+**/.ipynb_checkpoints
+**/Question Bank.ipynb
